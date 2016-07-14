@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://haroldt.github.io
+title: Summer Camp 2016
+tagline: A Scouting Journey
+description: My awesome new site
+paginate: 5
